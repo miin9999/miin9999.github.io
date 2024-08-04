@@ -6,7 +6,7 @@ description: >-
   en diversas etapas del ciclo de desarrollo de aplicaciones.
 image: /assets/images/main.avif
 main_content: >
-  # Hello Friend. Hello World.
+  # 안녕하세요
 
 
   **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
