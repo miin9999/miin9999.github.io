@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to create an effective landing page for your campaign
-image: 'https://picsum.photos/500/300'
+image: assets/images/dog.png
 category: Ruby On Rails
 ---
 Lorem markdownum causa finita rector cura uterque: Telamonque possit; attulerat
