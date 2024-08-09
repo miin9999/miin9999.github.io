@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ㄹㄹㄹㄹㄹ
-image: assets/images/dog.png
-category: Lorem Ipsum
+image: assets/images/dog2.png
+category: 카테고리2
 ---
 Lorem markdownum causa finita rector cura uterque: Telamonque possit; attulerat
 totaque pugnat at vincar corpore ad exiguo canisve. Est tuo coniugis siquis
