@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Go Camping
+title: fffffffffffff
 image: assets/images/dog.png
 category: RUBY ON RAILS
 ---
