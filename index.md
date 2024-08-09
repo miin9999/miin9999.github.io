@@ -14,7 +14,8 @@ permalink: /
 ---
 ## 그 외 활동 들
 
-image: /assets/images/dog.png
+![Dog Image](/assets/images/dog.png)
+
 저는 동아리에서 조장을 맡아 책임감 있게 역할을 수행하였습니다.
 
 
