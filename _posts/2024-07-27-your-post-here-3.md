@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to create an effective landing page for your campaign
+title: here-3
 image: 'https://picsum.photos/500/300'
 category: Ruby On Rails
 ---
