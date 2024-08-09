@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to create an effective landing page for your campaign
+title: Go Camping
 image: assets/images/dog.png
 category: 고캠핑 어플리케이션
 ---
