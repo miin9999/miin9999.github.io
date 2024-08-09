@@ -3,7 +3,6 @@ layout: post
 title: How to create an effective landing page for your campaign
 image: assets/images/dog.png
 category: Ruby On Rails
-date: 2024-08-15 12:00:00 +0000
 ---
 Lorem markdownum causa finita rector cura uterque: Telamonque possit; attulerat
 totaque pugnat at vincar corpore ad exiguo canisve. Est tuo coniugis siquis
