@@ -1,8 +1,8 @@
 ---
 layout: post
-title: fffffffffffff
+title: 고캠핑 어플리케이션
 image: assets/images/dog.png
-category: RUBY ON RAILS
+category: 내 프로젝트 카테고리
 date: 2024-08-15 12:00:00 +0000
 ---
 
