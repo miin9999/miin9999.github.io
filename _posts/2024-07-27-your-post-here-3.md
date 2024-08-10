@@ -2,6 +2,7 @@
 layout: post
 title: here-3
 image: 'https://picsum.photos/500/300'
+date: 2024-08-01 12:00:00 +0000
 category: Ruby On Rails
 ---
 Lorem markdownum causa finita rector cura uterque: Telamonque possit; attulerat
