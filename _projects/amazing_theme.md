@@ -1,12 +1,12 @@
 ---
 layout: project
-title: Amazing Theme
-image: 'https://picsum.photos/800/400'
+title: Go Camping App
+image: assets/images/goCampingIntro.png
 tags:
-  - tailwindcss
-  - html
+  - Kotlin
+  - RestApi
 ---
-Mauris eget varius turpis. Integer sit amet sollicitudin velit. Aenean ac lacus in eros cursus iaculis et id tellus. Pellentesque eu ante id mi eleifend sollicitudin nec at leo. Donec congue enim id massa vulputate, et posuere purus vehicula. Nunc euismod quam in tincidunt malesuada.
+캠핑러들을 위한 캠핌장 정보 어플리케이션
 
 You can find it on Github:
 
