@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Go Camping App
-image: assets/images/goCampingIntro.png
+image: 'assets/images/goCampingIntro.png'
 tags:
   - Kotlin
   - RestApi
