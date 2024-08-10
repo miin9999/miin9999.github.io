@@ -1,7 +1,8 @@
 ---
 layout: post
-title: ㄹㄹㄹㄹㄹ
+title: 도그2
 image: assets/images/dog2.png
+date: 2024-08-02 12:00:00 +0000
 category: 카테고리2
 ---
 Lorem markdownum causa finita rector cura uterque: Telamonque possit; attulerat
