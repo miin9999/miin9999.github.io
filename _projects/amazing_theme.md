@@ -8,7 +8,7 @@ tags:
 ---
 캠핑러들을 위한 캠핌장 정보 어플리케이션
 
-<img src="assets/images/temp.png" alt="Additional Image" style="max-width: 100%; height: auto;">
+![Additional Image]({{ '/assets/images/temp.png' | relative_url }})
 
 You can find it on Github:
 
